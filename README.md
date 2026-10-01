@@ -4,6 +4,13 @@ Aplicação desktop completa para cadastro e gestão de contactos (CRUD), desenv
 
 ---
 
+<div align="center">
+  <img src="crud.png" width="45%">
+  <img src="cadastro.png" width="45%">
+</div>
+
+---
+
 ## 🚀 Funcionalidades
 
 - **🗄️️ Configuração Automática**: Criação automática da base de dados (`crud_contatos`) e da tabela de contactos no primeiro arranque.
